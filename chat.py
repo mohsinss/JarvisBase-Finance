@@ -10,7 +10,7 @@ from langchain.vectorstores import DeepLake
 from streamlit_chat import message
 from dotenv import load_dotenv
 
-# Load environment variables from the .env file
+# Lload environment variables from the .env file
 load_dotenv()
 
 # Constants
